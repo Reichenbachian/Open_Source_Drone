@@ -1,0 +1,20 @@
+All pins are on Arduino Mega 2560
+
+##############################
+LS9DS1 -> Arduino Mega
+------------------------
+Gnd -> Gnd
+VCC -> 3.3 V
+SDA -> 20 (SDA)
+SCL -> 21 (SCL)
+
+##############################
+RF24L01 -> Arduino Mega
+------------------------
+Gnd -> Gnd
+VCC -> 3.3 V (Split with LS9DS1)
+CE -> 9
+CSN -> 53
+SCK -> 52
+MOSI -> 51
+MISO -> 50
