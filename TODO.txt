@@ -1,0 +1,1 @@
+- Currently the gyroscope is in the wrong position. It should be centered and aligned along the axis of the arms.
