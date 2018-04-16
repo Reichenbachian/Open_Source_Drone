@@ -1,2 +1,6 @@
 ## OS Files
 *.DS_Store
+
+## Python specific Files
+*.pyc
+*venv*
